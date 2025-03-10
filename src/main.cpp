@@ -51,5 +51,5 @@ int main(int argc, char ** argv)
     if (config.verbose) // If flag is set.
         std::cerr << "Conversion was a success. Congrats!\n";
 
-    return 0;
+    return 1;
 }
