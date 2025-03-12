@@ -1,0 +1,182 @@
+[
+{
+  "directory": "/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/libsais-build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc  -I/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/libsais-src/include -g -std=c99 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk -o CMakeFiles/libsais.dir/src/libsais.c.o -c /Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/libsais-src/src/libsais.c",
+  "file": "/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/libsais-src/src/libsais.c",
+  "output": "_deps/libsais-build/CMakeFiles/libsais.dir/src/libsais.c.o"
+},
+{
+  "directory": "/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/libsais-build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc  -I/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/libsais-src/include -g -std=c99 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk -o CMakeFiles/libsais.dir/src/libsais16.c.o -c /Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/libsais-src/src/libsais16.c",
+  "file": "/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/libsais-src/src/libsais16.c",
+  "output": "_deps/libsais-build/CMakeFiles/libsais.dir/src/libsais16.c.o"
+},
+{
+  "directory": "/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/libsais-build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc  -I/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/libsais-src/include -g -std=c99 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk -o CMakeFiles/libsais.dir/src/libsais16x64.c.o -c /Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/libsais-src/src/libsais16x64.c",
+  "file": "/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/libsais-src/src/libsais16x64.c",
+  "output": "_deps/libsais-build/CMakeFiles/libsais.dir/src/libsais16x64.c.o"
+},
+{
+  "directory": "/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/libsais-build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc  -I/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/libsais-src/include -g -std=c99 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk -o CMakeFiles/libsais.dir/src/libsais64.c.o -c /Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/libsais-src/src/libsais64.c",
+  "file": "/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/libsais-src/src/libsais64.c",
+  "output": "_deps/libsais-build/CMakeFiles/libsais.dir/src/libsais64.c.o"
+},
+{
+  "directory": "/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/hibf-build/src",
+  "command": "/opt/homebrew/bin/g++-14 -DHIBF_UNINITIALISED_RESIZE -DSIMDE_ENABLE_OPENMP -I/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/hibf-src/include -isystem /Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/cereal-src/include -isystem /Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/simde-src -g -std=c++23 -flto=auto -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk -Wno-psabi -march=native -fopenmp -o CMakeFiles/hibf.dir/hierarchical_interleaved_bloom_filter.cpp.o -c /Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/hibf-src/src/hierarchical_interleaved_bloom_filter.cpp",
+  "file": "/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/hibf-src/src/hierarchical_interleaved_bloom_filter.cpp",
+  "output": "_deps/hibf-build/src/CMakeFiles/hibf.dir/hierarchical_interleaved_bloom_filter.cpp.o"
+},
+{
+  "directory": "/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/hibf-build/src",
+  "command": "/opt/homebrew/bin/g++-14 -DHIBF_UNINITIALISED_RESIZE -DSIMDE_ENABLE_OPENMP -I/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/hibf-src/include -isystem /Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/cereal-src/include -isystem /Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/simde-src -g -std=c++23 -flto=auto -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk -Wno-psabi -march=native -fopenmp -o CMakeFiles/hibf.dir/interleaved_bloom_filter.cpp.o -c /Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/hibf-src/src/interleaved_bloom_filter.cpp",
+  "file": "/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/hibf-src/src/interleaved_bloom_filter.cpp",
+  "output": "_deps/hibf-build/src/CMakeFiles/hibf.dir/interleaved_bloom_filter.cpp.o"
+},
+{
+  "directory": "/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/hibf-build/src",
+  "command": "/opt/homebrew/bin/g++-14 -DHIBF_UNINITIALISED_RESIZE -DSIMDE_ENABLE_OPENMP -I/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/hibf-src/include -isystem /Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/cereal-src/include -isystem /Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/simde-src -g -std=c++23 -flto=auto -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk -Wno-psabi -march=native -fopenmp -o CMakeFiles/hibf.dir/config.cpp.o -c /Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/hibf-src/src/config.cpp",
+  "file": "/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/hibf-src/src/config.cpp",
+  "output": "_deps/hibf-build/src/CMakeFiles/hibf.dir/config.cpp.o"
+},
+{
+  "directory": "/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/hibf-build/src",
+  "command": "/opt/homebrew/bin/g++-14 -DHIBF_UNINITIALISED_RESIZE -DSIMDE_ENABLE_OPENMP -I/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/hibf-src/include -isystem /Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/cereal-src/include -isystem /Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/simde-src -g -std=c++23 -flto=auto -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk -Wno-psabi -march=native -fopenmp -o CMakeFiles/hibf.dir/layout/simple_binning.cpp.o -c /Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/hibf-src/src/layout/simple_binning.cpp",
+  "file": "/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/hibf-src/src/layout/simple_binning.cpp",
+  "output": "_deps/hibf-build/src/CMakeFiles/hibf.dir/layout/simple_binning.cpp.o"
+},
+{
+  "directory": "/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/hibf-build/src",
+  "command": "/opt/homebrew/bin/g++-14 -DHIBF_UNINITIALISED_RESIZE -DSIMDE_ENABLE_OPENMP -I/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/hibf-src/include -isystem /Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/cereal-src/include -isystem /Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/simde-src -g -std=c++23 -flto=auto -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk -Wno-psabi -march=native -fopenmp -o CMakeFiles/hibf.dir/layout/layout.cpp.o -c /Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/hibf-src/src/layout/layout.cpp",
+  "file": "/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/hibf-src/src/layout/layout.cpp",
+  "output": "_deps/hibf-build/src/CMakeFiles/hibf.dir/layout/layout.cpp.o"
+},
+{
+  "directory": "/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/hibf-build/src",
+  "command": "/opt/homebrew/bin/g++-14 -DHIBF_UNINITIALISED_RESIZE -DSIMDE_ENABLE_OPENMP -I/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/hibf-src/include -isystem /Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/cereal-src/include -isystem /Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/simde-src -g -std=c++23 -flto=auto -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk -Wno-psabi -march=native -fopenmp -o CMakeFiles/hibf.dir/layout/compute_fpr_correction.cpp.o -c /Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/hibf-src/src/layout/compute_fpr_correction.cpp",
+  "file": "/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/hibf-src/src/layout/compute_fpr_correction.cpp",
+  "output": "_deps/hibf-build/src/CMakeFiles/hibf.dir/layout/compute_fpr_correction.cpp.o"
+},
+{
+  "directory": "/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/hibf-build/src",
+  "command": "/opt/homebrew/bin/g++-14 -DHIBF_UNINITIALISED_RESIZE -DSIMDE_ENABLE_OPENMP -I/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/hibf-src/include -isystem /Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/cereal-src/include -isystem /Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/simde-src -g -std=c++23 -flto=auto -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk -Wno-psabi -march=native -fopenmp -o CMakeFiles/hibf.dir/layout/compute_layout.cpp.o -c /Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/hibf-src/src/layout/compute_layout.cpp",
+  "file": "/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/hibf-src/src/layout/compute_layout.cpp",
+  "output": "_deps/hibf-build/src/CMakeFiles/hibf.dir/layout/compute_layout.cpp.o"
+},
+{
+  "directory": "/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/hibf-build/src",
+  "command": "/opt/homebrew/bin/g++-14 -DHIBF_UNINITIALISED_RESIZE -DSIMDE_ENABLE_OPENMP -I/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/hibf-src/include -isystem /Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/cereal-src/include -isystem /Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/simde-src -g -std=c++23 -flto=auto -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk -Wno-psabi -march=native -fopenmp -o CMakeFiles/hibf.dir/layout/compute_relaxed_fpr_correction.cpp.o -c /Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/hibf-src/src/layout/compute_relaxed_fpr_correction.cpp",
+  "file": "/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/hibf-src/src/layout/compute_relaxed_fpr_correction.cpp",
+  "output": "_deps/hibf-build/src/CMakeFiles/hibf.dir/layout/compute_relaxed_fpr_correction.cpp.o"
+},
+{
+  "directory": "/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/hibf-build/src",
+  "command": "/opt/homebrew/bin/g++-14 -DHIBF_UNINITIALISED_RESIZE -DSIMDE_ENABLE_OPENMP -I/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/hibf-src/include -isystem /Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/cereal-src/include -isystem /Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/simde-src -g -std=c++23 -flto=auto -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk -Wno-psabi -march=native -fopenmp -o CMakeFiles/hibf.dir/layout/data_store.cpp.o -c /Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/hibf-src/src/layout/data_store.cpp",
+  "file": "/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/hibf-src/src/layout/data_store.cpp",
+  "output": "_deps/hibf-build/src/CMakeFiles/hibf.dir/layout/data_store.cpp.o"
+},
+{
+  "directory": "/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/hibf-build/src",
+  "command": "/opt/homebrew/bin/g++-14 -DHIBF_UNINITIALISED_RESIZE -DSIMDE_ENABLE_OPENMP -I/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/hibf-src/include -isystem /Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/cereal-src/include -isystem /Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/simde-src -g -std=c++23 -flto=auto -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk -Wno-psabi -march=native -fopenmp -o CMakeFiles/hibf.dir/sketch/compute_sketches.cpp.o -c /Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/hibf-src/src/sketch/compute_sketches.cpp",
+  "file": "/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/hibf-src/src/sketch/compute_sketches.cpp",
+  "output": "_deps/hibf-build/src/CMakeFiles/hibf.dir/sketch/compute_sketches.cpp.o"
+},
+{
+  "directory": "/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/hibf-build/src",
+  "command": "/opt/homebrew/bin/g++-14 -DHIBF_UNINITIALISED_RESIZE -DSIMDE_ENABLE_OPENMP -I/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/hibf-src/include -isystem /Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/cereal-src/include -isystem /Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/simde-src -g -std=c++23 -flto=auto -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk -Wno-psabi -march=native -fopenmp -o CMakeFiles/hibf.dir/layout/graph.cpp.o -c /Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/hibf-src/src/layout/graph.cpp",
+  "file": "/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/hibf-src/src/layout/graph.cpp",
+  "output": "_deps/hibf-build/src/CMakeFiles/hibf.dir/layout/graph.cpp.o"
+},
+{
+  "directory": "/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/hibf-build/src",
+  "command": "/opt/homebrew/bin/g++-14 -DHIBF_UNINITIALISED_RESIZE -DSIMDE_ENABLE_OPENMP -I/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/hibf-src/include -isystem /Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/cereal-src/include -isystem /Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/simde-src -g -std=c++23 -flto=auto -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk -Wno-psabi -march=native -fopenmp -o CMakeFiles/hibf.dir/layout/hierarchical_binning.cpp.o -c /Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/hibf-src/src/layout/hierarchical_binning.cpp",
+  "file": "/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/hibf-src/src/layout/hierarchical_binning.cpp",
+  "output": "_deps/hibf-build/src/CMakeFiles/hibf.dir/layout/hierarchical_binning.cpp.o"
+},
+{
+  "directory": "/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/hibf-build/src",
+  "command": "/opt/homebrew/bin/g++-14 -DHIBF_UNINITIALISED_RESIZE -DSIMDE_ENABLE_OPENMP -I/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/hibf-src/include -isystem /Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/cereal-src/include -isystem /Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/simde-src -g -std=c++23 -flto=auto -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk -Wno-psabi -march=native -fopenmp -o CMakeFiles/hibf.dir/misc/print.cpp.o -c /Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/hibf-src/src/misc/print.cpp",
+  "file": "/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/hibf-src/src/misc/print.cpp",
+  "output": "_deps/hibf-build/src/CMakeFiles/hibf.dir/misc/print.cpp.o"
+},
+{
+  "directory": "/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/hibf-build/src",
+  "command": "/opt/homebrew/bin/g++-14 -DHIBF_UNINITIALISED_RESIZE -DSIMDE_ENABLE_OPENMP -I/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/hibf-src/include -isystem /Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/cereal-src/include -isystem /Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/simde-src -g -std=c++23 -flto=auto -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk -Wno-psabi -march=native -fopenmp -o CMakeFiles/hibf.dir/sketch/toolbox.cpp.o -c /Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/hibf-src/src/sketch/toolbox.cpp",
+  "file": "/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/hibf-src/src/sketch/toolbox.cpp",
+  "output": "_deps/hibf-build/src/CMakeFiles/hibf.dir/sketch/toolbox.cpp.o"
+},
+{
+  "directory": "/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/hibf-build/src",
+  "command": "/opt/homebrew/bin/g++-14 -DHIBF_UNINITIALISED_RESIZE -DSIMDE_ENABLE_OPENMP -I/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/hibf-src/include -isystem /Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/cereal-src/include -isystem /Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/simde-src -g -std=c++23 -flto=auto -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk -Wno-psabi -march=native -fopenmp -o CMakeFiles/hibf.dir/sketch/hyperloglog.cpp.o -c /Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/hibf-src/src/sketch/hyperloglog.cpp",
+  "file": "/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/hibf-src/src/sketch/hyperloglog.cpp",
+  "output": "_deps/hibf-build/src/CMakeFiles/hibf.dir/sketch/hyperloglog.cpp.o"
+},
+{
+  "directory": "/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/hibf-build/src",
+  "command": "/opt/homebrew/bin/g++-14 -DHIBF_UNINITIALISED_RESIZE -DSIMDE_ENABLE_OPENMP -I/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/hibf-src/include -isystem /Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/cereal-src/include -isystem /Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/simde-src -g -std=c++23 -flto=auto -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk -Wno-psabi -march=native -fopenmp -o CMakeFiles/hibf.dir/sketch/minhashes.cpp.o -c /Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/hibf-src/src/sketch/minhashes.cpp",
+  "file": "/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/hibf-src/src/sketch/minhashes.cpp",
+  "output": "_deps/hibf-build/src/CMakeFiles/hibf.dir/sketch/minhashes.cpp.o"
+},
+{
+  "directory": "/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/hibf-build/src",
+  "command": "/opt/homebrew/bin/g++-14 -DHIBF_UNINITIALISED_RESIZE -DSIMDE_ENABLE_OPENMP -I/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/hibf-src/include -isystem /Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/cereal-src/include -isystem /Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/simde-src -g -std=c++23 -flto=auto -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk -Wno-psabi -march=native -fopenmp -o CMakeFiles/hibf.dir/build/insert_into_ibf.cpp.o -c /Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/hibf-src/src/build/insert_into_ibf.cpp",
+  "file": "/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/hibf-src/src/build/insert_into_ibf.cpp",
+  "output": "_deps/hibf-build/src/CMakeFiles/hibf.dir/build/insert_into_ibf.cpp.o"
+},
+{
+  "directory": "/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/hibf-build/src",
+  "command": "/opt/homebrew/bin/g++-14 -DHIBF_UNINITIALISED_RESIZE -DSIMDE_ENABLE_OPENMP -I/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/hibf-src/include -isystem /Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/cereal-src/include -isystem /Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/simde-src -g -std=c++23 -flto=auto -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk -Wno-psabi -march=native -fopenmp -o CMakeFiles/hibf.dir/build/compute_kmers.cpp.o -c /Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/hibf-src/src/build/compute_kmers.cpp",
+  "file": "/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/hibf-src/src/build/compute_kmers.cpp",
+  "output": "_deps/hibf-build/src/CMakeFiles/hibf.dir/build/compute_kmers.cpp.o"
+},
+{
+  "directory": "/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/hibf-build/src",
+  "command": "/opt/homebrew/bin/g++-14 -DHIBF_UNINITIALISED_RESIZE -DSIMDE_ENABLE_OPENMP -I/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/hibf-src/include -isystem /Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/cereal-src/include -isystem /Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/simde-src -g -std=c++23 -flto=auto -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk -Wno-psabi -march=native -fopenmp -o CMakeFiles/hibf.dir/build/construct_ibf.cpp.o -c /Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/hibf-src/src/build/construct_ibf.cpp",
+  "file": "/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/hibf-src/src/build/construct_ibf.cpp",
+  "output": "_deps/hibf-build/src/CMakeFiles/hibf.dir/build/construct_ibf.cpp.o"
+},
+{
+  "directory": "/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/src",
+  "command": "/opt/homebrew/bin/g++-14 -DHIBF_UNINITIALISED_RESIZE -DSHARG_HAS_TDL=0 -DSIMDE_ENABLE_OPENMP -I/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/include -isystem /Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/seqan3-src/include -isystem /Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/cereal-src/include -isystem /Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/sharg-src/include -isystem /Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/hibf-src/include -isystem /Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/simde-src -isystem /Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/fmindex-src/src/fmindex-collection -isystem /Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/fmindex-src/src/fmindex-collection/.. -isystem /Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/libsais-src/include -isystem /Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/fmindex-src/src/search_schemes -isystem /Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/fmindex-src/src/search_schemes/.. -g -std=c++23 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk -pedantic -Wall -Wextra -Wno-interference-size -Wnrvo -Wno-psabi -march=native -fopenmp -o CMakeFiles/swp25-tutorial_lib.dir/fastq_conversion.cpp.o -c /Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/src/fastq_conversion.cpp",
+  "file": "/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/src/fastq_conversion.cpp",
+  "output": "src/CMakeFiles/swp25-tutorial_lib.dir/fastq_conversion.cpp.o"
+},
+{
+  "directory": "/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/src",
+  "command": "/opt/homebrew/bin/g++-14 -DHIBF_UNINITIALISED_RESIZE -DSHARG_HAS_TDL=0 -DSIMDE_ENABLE_OPENMP -I/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/include -isystem /Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/seqan3-src/include -isystem /Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/cereal-src/include -isystem /Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/sharg-src/include -isystem /Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/hibf-src/include -isystem /Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/simde-src -isystem /Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/fmindex-src/src/fmindex-collection -isystem /Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/fmindex-src/src/fmindex-collection/.. -isystem /Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/libsais-src/include -isystem /Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/fmindex-src/src/search_schemes -isystem /Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/fmindex-src/src/search_schemes/.. -g -std=c++23 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk -pedantic -Wall -Wextra -Wno-interference-size -Wnrvo -Wno-psabi -march=native -fopenmp -o CMakeFiles/swp25-tutorial.dir/main.cpp.o -c /Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/src/main.cpp",
+  "file": "/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/src/main.cpp",
+  "output": "src/CMakeFiles/swp25-tutorial.dir/main.cpp.o"
+},
+{
+  "directory": "/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/test",
+  "command": "/opt/homebrew/bin/g++-14 -DBINDIR=\\\"/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/\\\" -DDATADIR=\\\"/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/test/data/\\\" -DHIBF_UNINITIALISED_RESIZE -DOUTPUTDIR=\\\"/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/test/output/\\\" -DSHARG_HAS_TDL=0 -DSIMDE_ENABLE_OPENMP -I/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/include -isystem /Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/gtest-src/googletest/include -isystem /Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/gtest-src/googletest -isystem /Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/seqan3-src/include -isystem /Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/cereal-src/include -isystem /Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/sharg-src/include -isystem /Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/hibf-src/include -isystem /Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/simde-src -isystem /Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/fmindex-src/src/fmindex-collection -isystem /Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/fmindex-src/src/fmindex-collection/.. -isystem /Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/libsais-src/include -isystem /Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/fmindex-src/src/search_schemes -isystem /Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/fmindex-src/src/search_schemes/.. -g -std=c++23 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk -pedantic -Wall -Wextra -Wno-interference-size -Wnrvo -Wno-psabi -march=native -fopenmp -o CMakeFiles/api_fastq_coversion_test.dir/api_fastq_coversion_test.cpp.o -c /Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/test/api_fastq_coversion_test.cpp",
+  "file": "/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/test/api_fastq_coversion_test.cpp",
+  "output": "test/CMakeFiles/api_fastq_coversion_test.dir/api_fastq_coversion_test.cpp.o"
+},
+{
+  "directory": "/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/test",
+  "command": "/opt/homebrew/bin/g++-14 -DBINDIR=\\\"/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/\\\" -DDATADIR=\\\"/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/test/data/\\\" -DHIBF_UNINITIALISED_RESIZE -DOUTPUTDIR=\\\"/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/test/output/\\\" -DSHARG_HAS_TDL=0 -DSIMDE_ENABLE_OPENMP -I/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/include -isystem /Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/gtest-src/googletest/include -isystem /Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/gtest-src/googletest -isystem /Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/seqan3-src/include -isystem /Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/cereal-src/include -isystem /Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/sharg-src/include -isystem /Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/hibf-src/include -isystem /Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/simde-src -isystem /Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/fmindex-src/src/fmindex-collection -isystem /Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/fmindex-src/src/fmindex-collection/.. -isystem /Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/libsais-src/include -isystem /Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/fmindex-src/src/search_schemes -isystem /Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/fmindex-src/src/search_schemes/.. -g -std=c++23 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk -pedantic -Wall -Wextra -Wno-interference-size -Wnrvo -Wno-psabi -march=native -fopenmp -o CMakeFiles/cli_fastq_coversion_test.dir/cli_fastq_coversion_test.cpp.o -c /Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/test/cli_fastq_coversion_test.cpp",
+  "file": "/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/test/cli_fastq_coversion_test.cpp",
+  "output": "test/CMakeFiles/cli_fastq_coversion_test.dir/cli_fastq_coversion_test.cpp.o"
+},
+{
+  "directory": "/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/test",
+  "command": "/opt/homebrew/bin/g++-14 -DBINDIR=\\\"/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/\\\" -DDATADIR=\\\"/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/test/data/\\\" -DHIBF_UNINITIALISED_RESIZE -DOUTPUTDIR=\\\"/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/test/output/\\\" -DSHARG_HAS_TDL=0 -DSIMDE_ENABLE_OPENMP -I/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/include -isystem /Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/gtest-src/googletest/include -isystem /Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/gtest-src/googletest -isystem /Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/seqan3-src/include -isystem /Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/cereal-src/include -isystem /Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/sharg-src/include -isystem /Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/hibf-src/include -isystem /Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/simde-src -isystem /Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/fmindex-src/src/fmindex-collection -isystem /Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/fmindex-src/src/fmindex-collection/.. -isystem /Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/libsais-src/include -isystem /Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/fmindex-src/src/search_schemes -isystem /Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/fmindex-src/src/search_schemes/.. -g -std=c++23 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk -pedantic -Wall -Wextra -Wno-interference-size -Wnrvo -Wno-psabi -march=native -fopenmp -o CMakeFiles/print_test.dir/print_test.cpp.o -c /Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/test/print_test.cpp",
+  "file": "/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/test/print_test.cpp",
+  "output": "test/CMakeFiles/print_test.dir/print_test.cpp.o"
+},
+{
+  "directory": "/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/gtest-build/googletest",
+  "command": "/opt/homebrew/bin/g++-14  -I/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/gtest-src/googletest/include -I/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/gtest-src/googletest -g -std=c++23 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk -Wall -Wshadow -Wundef -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gtest.dir/src/gtest-all.cc.o -c /Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/gtest-src/googletest/src/gtest-all.cc",
+  "file": "/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/gtest-src/googletest/src/gtest-all.cc",
+  "output": "_deps/gtest-build/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o"
+},
+{
+  "directory": "/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/gtest-build/googletest",
+  "command": "/opt/homebrew/bin/g++-14  -isystem /Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/gtest-src/googletest/include -isystem /Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/gtest-src/googletest -g -std=c++23 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk -Wall -Wshadow -Wundef -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gtest_main.dir/src/gtest_main.cc.o -c /Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/gtest-src/googletest/src/gtest_main.cc",
+  "file": "/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/gtest-src/googletest/src/gtest_main.cc",
+  "output": "_deps/gtest-build/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o"
+}
+]

@@ -1,0 +1,10 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/hibf-build/CMakeFiles/_CMakeLTOTest-CXX/src/foo.cpp
+

@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../lib/libswp25-tutorial_lib.a "CMakeFiles/swp25-tutorial_lib.dir/fastq_conversion.cpp.o"
+/usr/bin/ranlib ../lib/libswp25-tutorial_lib.a

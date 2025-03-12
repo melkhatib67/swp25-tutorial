@@ -15,7 +15,7 @@ CPMDeclarePackage (hibf
                    GITHUB_REPOSITORY seqan/hibf
                    SYSTEM TRUE
                    EXCLUDE_FROM_ALL TRUE
-                   OPTIONS "INSTALL_HIBF OFF" "CMAKE_MESSAGE_LOG_LEVEL WARNING"
+                   OPTIONS "INSTALL_HIBF OFF" "CMAKE_MESSAGE_LOG_LEVEL WARNING" "HIBF_DEV_CHECK_LTO OFF" "HIBF_LTO_BUILD OFF"
 )
 
 # sharg

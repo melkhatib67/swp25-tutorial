@@ -1,0 +1,15 @@
+# Target labels
+ datasource--in.fastq-populate
+# Source files and their labels
+/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/test/datasource--in.fastq-subbuild/CMakeFiles/datasource--in.fastq-populate
+/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/test/datasource--in.fastq-subbuild/CMakeFiles/datasource--in.fastq-populate.rule
+/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/test/datasource--in.fastq-subbuild/CMakeFiles/datasource--in.fastq-populate-complete.rule
+/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/test/datasource--in.fastq-subbuild/datasource--in.fastq-populate-prefix/src/datasource--in.fastq-populate-stamp/datasource--in.fastq-populate-build.rule
+/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/test/datasource--in.fastq-subbuild/datasource--in.fastq-populate-prefix/src/datasource--in.fastq-populate-stamp/datasource--in.fastq-populate-configure.rule
+/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/test/datasource--in.fastq-subbuild/datasource--in.fastq-populate-prefix/src/datasource--in.fastq-populate-stamp/datasource--in.fastq-populate-copyfile.rule
+/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/test/datasource--in.fastq-subbuild/datasource--in.fastq-populate-prefix/src/datasource--in.fastq-populate-stamp/datasource--in.fastq-populate-download.rule
+/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/test/datasource--in.fastq-subbuild/datasource--in.fastq-populate-prefix/src/datasource--in.fastq-populate-stamp/datasource--in.fastq-populate-install.rule
+/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/test/datasource--in.fastq-subbuild/datasource--in.fastq-populate-prefix/src/datasource--in.fastq-populate-stamp/datasource--in.fastq-populate-mkdir.rule
+/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/test/datasource--in.fastq-subbuild/datasource--in.fastq-populate-prefix/src/datasource--in.fastq-populate-stamp/datasource--in.fastq-populate-patch.rule
+/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/test/datasource--in.fastq-subbuild/datasource--in.fastq-populate-prefix/src/datasource--in.fastq-populate-stamp/datasource--in.fastq-populate-test.rule
+/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/test/datasource--in.fastq-subbuild/datasource--in.fastq-populate-prefix/src/datasource--in.fastq-populate-stamp/datasource--in.fastq-populate-update.rule

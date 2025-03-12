@@ -1,0 +1,12 @@
+# This is a generated file and its contents are an internal implementation detail.
+# The download step will be re-executed if anything in this file changes.
+# No other meaning or use of this file is supported.
+
+method=url
+command=/opt/homebrew/bin/cmake;-DCMAKE_MESSAGE_LOG_LEVEL=VERBOSE;-P;/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/test/datasource--downloaded.fasta-subbuild/datasource--downloaded.fasta-populate-prefix/src/datasource--downloaded.fasta-populate-stamp/download-datasource--downloaded.fasta-populate.cmake;COMMAND;/opt/homebrew/bin/cmake;-DCMAKE_MESSAGE_LOG_LEVEL=VERBOSE;-P;/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/test/datasource--downloaded.fasta-subbuild/datasource--downloaded.fasta-populate-prefix/src/datasource--downloaded.fasta-populate-stamp/verify-datasource--downloaded.fasta-populate.cmake
+source_dir=/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/test/data
+work_dir=/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/test
+url(s)=https://ftp.seqan.de/app-template/downloaded.fasta
+hash=SHA256=c3cb990ca1a25c7e31be3c6c2d009238d9ac9a44b2b7c143753c1e2881699077
+      no_extract=YES
+

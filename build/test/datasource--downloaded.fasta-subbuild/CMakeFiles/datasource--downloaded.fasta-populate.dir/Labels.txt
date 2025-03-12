@@ -1,0 +1,15 @@
+# Target labels
+ datasource--downloaded.fasta-populate
+# Source files and their labels
+/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/test/datasource--downloaded.fasta-subbuild/CMakeFiles/datasource--downloaded.fasta-populate
+/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/test/datasource--downloaded.fasta-subbuild/CMakeFiles/datasource--downloaded.fasta-populate.rule
+/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/test/datasource--downloaded.fasta-subbuild/CMakeFiles/datasource--downloaded.fasta-populate-complete.rule
+/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/test/datasource--downloaded.fasta-subbuild/datasource--downloaded.fasta-populate-prefix/src/datasource--downloaded.fasta-populate-stamp/datasource--downloaded.fasta-populate-build.rule
+/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/test/datasource--downloaded.fasta-subbuild/datasource--downloaded.fasta-populate-prefix/src/datasource--downloaded.fasta-populate-stamp/datasource--downloaded.fasta-populate-configure.rule
+/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/test/datasource--downloaded.fasta-subbuild/datasource--downloaded.fasta-populate-prefix/src/datasource--downloaded.fasta-populate-stamp/datasource--downloaded.fasta-populate-copyfile.rule
+/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/test/datasource--downloaded.fasta-subbuild/datasource--downloaded.fasta-populate-prefix/src/datasource--downloaded.fasta-populate-stamp/datasource--downloaded.fasta-populate-download.rule
+/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/test/datasource--downloaded.fasta-subbuild/datasource--downloaded.fasta-populate-prefix/src/datasource--downloaded.fasta-populate-stamp/datasource--downloaded.fasta-populate-install.rule
+/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/test/datasource--downloaded.fasta-subbuild/datasource--downloaded.fasta-populate-prefix/src/datasource--downloaded.fasta-populate-stamp/datasource--downloaded.fasta-populate-mkdir.rule
+/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/test/datasource--downloaded.fasta-subbuild/datasource--downloaded.fasta-populate-prefix/src/datasource--downloaded.fasta-populate-stamp/datasource--downloaded.fasta-populate-patch.rule
+/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/test/datasource--downloaded.fasta-subbuild/datasource--downloaded.fasta-populate-prefix/src/datasource--downloaded.fasta-populate-stamp/datasource--downloaded.fasta-populate-test.rule
+/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/test/datasource--downloaded.fasta-subbuild/datasource--downloaded.fasta-populate-prefix/src/datasource--downloaded.fasta-populate-stamp/datasource--downloaded.fasta-populate-update.rule

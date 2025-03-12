@@ -1,0 +1,10 @@
+[
+    {
+      "name": "g++-14",
+      "compilers": {
+        "CC": "/opt/homebrew/bin/gcc-14",
+        "CXX": "/opt/homebrew/bin/g++-14"
+      }
+      
+    }
+]

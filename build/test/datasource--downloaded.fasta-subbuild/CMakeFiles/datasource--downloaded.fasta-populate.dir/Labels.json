@@ -1,0 +1,49 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/test/datasource--downloaded.fasta-subbuild/CMakeFiles/datasource--downloaded.fasta-populate"
+		},
+		{
+			"file" : "/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/test/datasource--downloaded.fasta-subbuild/CMakeFiles/datasource--downloaded.fasta-populate.rule"
+		},
+		{
+			"file" : "/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/test/datasource--downloaded.fasta-subbuild/CMakeFiles/datasource--downloaded.fasta-populate-complete.rule"
+		},
+		{
+			"file" : "/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/test/datasource--downloaded.fasta-subbuild/datasource--downloaded.fasta-populate-prefix/src/datasource--downloaded.fasta-populate-stamp/datasource--downloaded.fasta-populate-build.rule"
+		},
+		{
+			"file" : "/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/test/datasource--downloaded.fasta-subbuild/datasource--downloaded.fasta-populate-prefix/src/datasource--downloaded.fasta-populate-stamp/datasource--downloaded.fasta-populate-configure.rule"
+		},
+		{
+			"file" : "/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/test/datasource--downloaded.fasta-subbuild/datasource--downloaded.fasta-populate-prefix/src/datasource--downloaded.fasta-populate-stamp/datasource--downloaded.fasta-populate-copyfile.rule"
+		},
+		{
+			"file" : "/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/test/datasource--downloaded.fasta-subbuild/datasource--downloaded.fasta-populate-prefix/src/datasource--downloaded.fasta-populate-stamp/datasource--downloaded.fasta-populate-download.rule"
+		},
+		{
+			"file" : "/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/test/datasource--downloaded.fasta-subbuild/datasource--downloaded.fasta-populate-prefix/src/datasource--downloaded.fasta-populate-stamp/datasource--downloaded.fasta-populate-install.rule"
+		},
+		{
+			"file" : "/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/test/datasource--downloaded.fasta-subbuild/datasource--downloaded.fasta-populate-prefix/src/datasource--downloaded.fasta-populate-stamp/datasource--downloaded.fasta-populate-mkdir.rule"
+		},
+		{
+			"file" : "/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/test/datasource--downloaded.fasta-subbuild/datasource--downloaded.fasta-populate-prefix/src/datasource--downloaded.fasta-populate-stamp/datasource--downloaded.fasta-populate-patch.rule"
+		},
+		{
+			"file" : "/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/test/datasource--downloaded.fasta-subbuild/datasource--downloaded.fasta-populate-prefix/src/datasource--downloaded.fasta-populate-stamp/datasource--downloaded.fasta-populate-test.rule"
+		},
+		{
+			"file" : "/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/test/datasource--downloaded.fasta-subbuild/datasource--downloaded.fasta-populate-prefix/src/datasource--downloaded.fasta-populate-stamp/datasource--downloaded.fasta-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"datasource--downloaded.fasta-populate"
+		],
+		"name" : "datasource--downloaded.fasta-populate"
+	}
+}
