@@ -1,0 +1,49 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/test/datasource--in.fastq-subbuild/CMakeFiles/datasource--in.fastq-populate"
+		},
+		{
+			"file" : "/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/test/datasource--in.fastq-subbuild/CMakeFiles/datasource--in.fastq-populate.rule"
+		},
+		{
+			"file" : "/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/test/datasource--in.fastq-subbuild/CMakeFiles/datasource--in.fastq-populate-complete.rule"
+		},
+		{
+			"file" : "/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/test/datasource--in.fastq-subbuild/datasource--in.fastq-populate-prefix/src/datasource--in.fastq-populate-stamp/datasource--in.fastq-populate-build.rule"
+		},
+		{
+			"file" : "/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/test/datasource--in.fastq-subbuild/datasource--in.fastq-populate-prefix/src/datasource--in.fastq-populate-stamp/datasource--in.fastq-populate-configure.rule"
+		},
+		{
+			"file" : "/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/test/datasource--in.fastq-subbuild/datasource--in.fastq-populate-prefix/src/datasource--in.fastq-populate-stamp/datasource--in.fastq-populate-copyfile.rule"
+		},
+		{
+			"file" : "/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/test/datasource--in.fastq-subbuild/datasource--in.fastq-populate-prefix/src/datasource--in.fastq-populate-stamp/datasource--in.fastq-populate-download.rule"
+		},
+		{
+			"file" : "/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/test/datasource--in.fastq-subbuild/datasource--in.fastq-populate-prefix/src/datasource--in.fastq-populate-stamp/datasource--in.fastq-populate-install.rule"
+		},
+		{
+			"file" : "/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/test/datasource--in.fastq-subbuild/datasource--in.fastq-populate-prefix/src/datasource--in.fastq-populate-stamp/datasource--in.fastq-populate-mkdir.rule"
+		},
+		{
+			"file" : "/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/test/datasource--in.fastq-subbuild/datasource--in.fastq-populate-prefix/src/datasource--in.fastq-populate-stamp/datasource--in.fastq-populate-patch.rule"
+		},
+		{
+			"file" : "/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/test/datasource--in.fastq-subbuild/datasource--in.fastq-populate-prefix/src/datasource--in.fastq-populate-stamp/datasource--in.fastq-populate-test.rule"
+		},
+		{
+			"file" : "/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/test/datasource--in.fastq-subbuild/datasource--in.fastq-populate-prefix/src/datasource--in.fastq-populate-stamp/datasource--in.fastq-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"datasource--in.fastq-populate"
+		],
+		"name" : "datasource--in.fastq-populate"
+	}
+}

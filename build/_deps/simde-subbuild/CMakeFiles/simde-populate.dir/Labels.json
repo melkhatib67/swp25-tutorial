@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/simde-subbuild/CMakeFiles/simde-populate"
+		},
+		{
+			"file" : "/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/simde-subbuild/CMakeFiles/simde-populate.rule"
+		},
+		{
+			"file" : "/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/simde-subbuild/CMakeFiles/simde-populate-complete.rule"
+		},
+		{
+			"file" : "/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/simde-subbuild/simde-populate-prefix/src/simde-populate-stamp/simde-populate-build.rule"
+		},
+		{
+			"file" : "/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/simde-subbuild/simde-populate-prefix/src/simde-populate-stamp/simde-populate-configure.rule"
+		},
+		{
+			"file" : "/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/simde-subbuild/simde-populate-prefix/src/simde-populate-stamp/simde-populate-download.rule"
+		},
+		{
+			"file" : "/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/simde-subbuild/simde-populate-prefix/src/simde-populate-stamp/simde-populate-install.rule"
+		},
+		{
+			"file" : "/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/simde-subbuild/simde-populate-prefix/src/simde-populate-stamp/simde-populate-mkdir.rule"
+		},
+		{
+			"file" : "/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/simde-subbuild/simde-populate-prefix/src/simde-populate-stamp/simde-populate-patch.rule"
+		},
+		{
+			"file" : "/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/simde-subbuild/simde-populate-prefix/src/simde-populate-stamp/simde-populate-test.rule"
+		},
+		{
+			"file" : "/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/simde-subbuild/simde-populate-prefix/src/simde-populate-stamp/simde-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"simde-populate"
+		],
+		"name" : "simde-populate"
+	}
+}

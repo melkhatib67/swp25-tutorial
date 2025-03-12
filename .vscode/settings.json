@@ -1,0 +1,12 @@
+{
+    "cmake.configureSettings": {
+        "CMAKE_OSX_SYSROOT": "/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk"
+    },
+    "C_Cpp.default.compilerPath": "/opt/homebrew/bin/g++-14",
+    "files.associations": {
+        "vector": "cpp",
+        "format": "cpp",
+        "thread": "cpp",
+        "charconv": "cpp"
+    }
+}

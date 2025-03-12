@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/hibf-subbuild/CMakeFiles/hibf-populate"
+		},
+		{
+			"file" : "/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/hibf-subbuild/CMakeFiles/hibf-populate.rule"
+		},
+		{
+			"file" : "/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/hibf-subbuild/CMakeFiles/hibf-populate-complete.rule"
+		},
+		{
+			"file" : "/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/hibf-subbuild/hibf-populate-prefix/src/hibf-populate-stamp/hibf-populate-build.rule"
+		},
+		{
+			"file" : "/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/hibf-subbuild/hibf-populate-prefix/src/hibf-populate-stamp/hibf-populate-configure.rule"
+		},
+		{
+			"file" : "/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/hibf-subbuild/hibf-populate-prefix/src/hibf-populate-stamp/hibf-populate-download.rule"
+		},
+		{
+			"file" : "/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/hibf-subbuild/hibf-populate-prefix/src/hibf-populate-stamp/hibf-populate-install.rule"
+		},
+		{
+			"file" : "/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/hibf-subbuild/hibf-populate-prefix/src/hibf-populate-stamp/hibf-populate-mkdir.rule"
+		},
+		{
+			"file" : "/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/hibf-subbuild/hibf-populate-prefix/src/hibf-populate-stamp/hibf-populate-patch.rule"
+		},
+		{
+			"file" : "/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/hibf-subbuild/hibf-populate-prefix/src/hibf-populate-stamp/hibf-populate-test.rule"
+		},
+		{
+			"file" : "/Users/mostafaelkhatib/Desktop/swp-25-repo/swp25-tutorial/build/_deps/hibf-subbuild/hibf-populate-prefix/src/hibf-populate-stamp/hibf-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"hibf-populate"
+		],
+		"name" : "hibf-populate"
+	}
+}
